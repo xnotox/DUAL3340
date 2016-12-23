@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="0">
-  <PLACEMENT>2c0000000000000001000000ffffffffffffffffffffffffffffffffaf000000650100001005000036040000</PLACEMENT>
+  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffffd60100005a000000370600002b030000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
   <WINDOW type="default" module="ARES"/>
   <WINDOW type="VIEW3D" module="VIEW3D">
    <camera>
-    <position x="-5000000" y="-14389087" z="9389087"/>
-    <focus x="-5000000" y="-5000000" z="0"/>
-    <up x="0" y="707106" z="707106"/>
+    <position x="-7002362" y="-11454185" z="13057571"/>
+    <focus x="-5000000" y="-5979397" z="-479397"/>
+    <up x="-137195" y="925176" z="353876"/>
    </camera>
   </WINDOW>
-  <WINDOW type="default" module="DXP"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
@@ -40,12 +39,6 @@
      <ITEM name="Watch Expression Column Width">83</ITEM>
      <ITEM name="nItems">0</ITEM>
     </PROPERTIES>
-   </POPUP>
-   <POPUP w="695" x="196" flags="00000000" y="98" h="448" pid="0" iid="103">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="511" x="149" flags="00000001" y="198" h="142" pid="0" iid="136">
-    <PROPERTIES/>
    </POPUP>
   </PWI>
  </MODULE>

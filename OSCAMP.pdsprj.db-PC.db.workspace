@@ -1,45 +1,19 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="1">
-  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff900000006b000000f10400003c030000</PLACEMENT>
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff9000000011000000f1040000e2020000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
   <WINDOW type="default" module="ARES"/>
+  <WINDOW type="default" module="DXP"/>
   <WINDOW type="VIEW3D" module="VIEW3D">
    <camera>
-    <position x="1782068" y="4683739" z="12960817"/>
-    <focus x="6296733" y="5921227" z="535049"/>
-    <up x="-94061" y="993461" z="64763"/>
+    <position x="5000000" y="5000000" z="13278174"/>
+    <focus x="5000000" y="5000000" z="0"/>
+    <up x="0" y="1000000" z="0"/>
    </camera>
   </WINDOW>
  </FRAME>
  <MODULE name="VSMDEBUG">
-  <PWI>
-   <POPUP w="800" x="68" flags="00000002" y="128" h="200" pid="0" iid="-1">
-    <PROPERTIES>
-     <ITEM name="Message Column Width">542</ITEM>
-     <ITEM name="ShowGrid">No</ITEM>
-     <ITEM name="Source Column Width">100</ITEM>
-     <ITEM name="Time Column Width">120</ITEM>
-     <ITEM name="Version">100</ITEM>
-    </PROPERTIES>
-   </POPUP>
-   <POPUP w="350" x="88" flags="00000032" y="148" h="200" pid="1" iid="-1">
-    <PROPERTIES>
-     <ITEM name="Address Column Width">83</ITEM>
-     <ITEM name="AutoResize">No</ITEM>
-     <ITEM name="Gridlines">Yes</ITEM>
-     <ITEM name="Name Column Width">83</ITEM>
-     <ITEM name="ShowAddresses">Yes</ITEM>
-     <ITEM name="ShowPreviousValues">No</ITEM>
-     <ITEM name="ShowTypes">No</ITEM>
-     <ITEM name="ShowWatchPoint">Yes</ITEM>
-     <ITEM name="TriggerMode">0</ITEM>
-     <ITEM name="Value Column Width">83</ITEM>
-     <ITEM name="Version">100</ITEM>
-     <ITEM name="Watch Expression Column Width">83</ITEM>
-     <ITEM name="nItems">0</ITEM>
-    </PROPERTIES>
-   </POPUP>
-  </PWI>
+  <PWI/>
  </MODULE>
 </WORKSPACE>
